@@ -39,9 +39,8 @@ export default App;
 Deploy the application using Github Pages (https://github.com/prof-tejera/react-deployment-code#github-actions) or a different method if you prefer. As long as the URL is avaliable on the public internet and live for 2 weeks, then you can use whatever method you want.
 
 ## Submitting
-Edit this file (README.md) and complete the following:
 
-- URL to live application: 
-- What code editor are you using?
+- URL: https://homework-2.onrender.com/
+- Editor: VS Code
 
 That is all!
